@@ -4,10 +4,6 @@ title: First Post
 description: "A little bit about this website"
 modified: 2015-01-26
 tags: [Initial Post, Hello World!]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 
