@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About Me
+title: Résumé
 image:
-  feature: abstract-5.jpg
+  feature: coffeeshop.png
 comments: false
 modified: 2014-12-24
 ---
-
-My name is Allen Wang
+# Résumé
