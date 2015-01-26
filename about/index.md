@@ -7,4 +7,13 @@ comments: false
 modified: 2014-12-24
 ---
 
-My name is Allen Wang and I'm a 
+Hi, my name is Allen Wang, and I am a second year <a href="http://ece.utexas.edu">Electrical/Computer Engineering</a> student at the <a href="http://utexas.edu">University of Texas at Austin.</a> 
+
+I enjoy:
+
+* Programming
+* Basketball
+* Football
+* Boxing
+* Music
+* ...and a lot more!   
