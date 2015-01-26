@@ -2,9 +2,9 @@
 layout: page
 title: About Me
 image:
-  feature: abstract-5.jpg
+  feature: taipei101.jpg
 comments: false
 modified: 2014-12-24
 ---
 
-My name is Allen Wang
+My name is Allen Wang and I'm a 
