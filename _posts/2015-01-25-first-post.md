@@ -4,6 +4,8 @@ title: First Post
 description: "A little bit about this website"
 modified: 2015-01-26
 tags: [Initial Post, Hello World!]
+image:
+  feature: abstract-1.jpg
 ---
 
 

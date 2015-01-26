@@ -3,6 +3,7 @@ _site
 *.sublime-project
 *.sublime-workspace
 *.swp
+tmp/
 codekit-config.json
 node_modules
 Gemfile.lock
