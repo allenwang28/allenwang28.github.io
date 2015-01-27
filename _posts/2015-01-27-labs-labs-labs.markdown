@@ -14,7 +14,9 @@ share:
 date: 2015-01-27T00:12:44-06:00
 ---
 
-Year 2. Semester 2. Things only get harder from here. As an Electrical Engineering student,
+Year 2. Semester 2.
+
+ Things only get harder from here. As an Electrical Engineering student,
 "harder" isn't something that I really look forward to. Maybe more "challenging" is more of a glass half full approach,
 but even with this mindset, the thought of my workload expanding like e<sup>x</sup> lingers in the back of my mind.
 
