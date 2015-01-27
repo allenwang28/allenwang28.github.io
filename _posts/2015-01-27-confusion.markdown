@@ -5,8 +5,8 @@ modified:
 categories: 
 description:
 tags: [It's hot outside, lab, EE316, Digital Logic Design, UT AUSTIN]
-image: lab1.jpg
-  feature:
+image: 
+  feature: lab1.jpg
   credit:
   creditlink:
 comments:
