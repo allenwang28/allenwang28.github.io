@@ -11,11 +11,14 @@ modified: 2014-12-24
 
 ### <a href="http://utexas.edu">University of Texas at Austin [Aug 2013 - Present]</a>
 
-### Current GPA: 3.95
+### Current GPA: 
+3.95
 
-Primary Tech Core: Computer Architecture and Embedded Systems
+### Primary Tech Core: 
+Computer Architecture and Embedded Systems
 
-Secondary Tech Core: Integrated Circuits
+### Secondary Tech Core: 
+Integrated Circuits
 
 Related Coursework:
 
