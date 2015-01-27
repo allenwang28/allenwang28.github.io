@@ -10,6 +10,7 @@ modified: 2014-12-24
 ## Education: 
 
 ### <a href="http://utexas.edu">University of Texas at Austin [Aug 2013 - Present]</a>
+
 ### Current GPA: 3.95
 
 Related Coursework:
