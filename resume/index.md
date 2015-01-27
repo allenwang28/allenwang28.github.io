@@ -13,6 +13,10 @@ modified: 2014-12-24
 
 ### Current GPA: 3.95
 
+Primary Tech Core: Computer Architecture and Embedded Systems
+
+Secondary Tech Core: Integrated Circuits
+
 Related Coursework:
 
 ### In Progress
