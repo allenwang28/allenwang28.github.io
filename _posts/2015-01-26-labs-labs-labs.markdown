@@ -11,7 +11,7 @@ image:
   creditlink:
 comments:
 share:
-date: 2015-01-27T00:12:44-06:00
+date: 2015-01-26T00:12:44-06:00
 ---
 
 Year 2. Semester 2.
