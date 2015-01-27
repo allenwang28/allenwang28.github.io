@@ -22,7 +22,7 @@ but even with this mindset, the thought of my workload expanding like e<sup>x</s
 
 
 As you can tell by the title of this post, I know that labs are and will be parts of my classes for the rest of my college career. That's totally fine.
-I mean, you only learn by doing, right? I only wish that I had a better experience regarding labs, and as someone who potentially has interest in research, 
+I mean, you only learn by doing, right? I only wish that I had a better experience regarding labs, and as someone who has potential aspirations in research, 
 that is kind of scary that I still have lab-phobia. I really hope that in the future when I re-read my posts, I will be able to look back and say that now that I have completed it, it wasn't so bad - that I learned a lot and came out a better, stronger person! 
 
 
