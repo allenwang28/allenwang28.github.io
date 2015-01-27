@@ -7,7 +7,7 @@ comments: false
 modified: 2014-12-24
 ---
 
-## Education: 
+# Education: 
 
 ### <a href="http://utexas.edu">University of Texas at Austin [Aug 2013 - Present]</a>
 
@@ -17,7 +17,10 @@ modified: 2014-12-24
 
 **Secondary Tech Core:** Integrated Circuits
 
-Related Coursework:
+
+
+
+# Related Coursework:
 
 ### In Progress
 
