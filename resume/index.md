@@ -13,9 +13,9 @@ modified: 2014-12-24
 
 **Current GPA:** 3.95
 
-**Primary Tech Core:** Computer Architecture and Embedded Systems
+**Primary Tech Core:** <a href="http://www.ece.utexas.edu/undergraduate/curriculum/2012/cores/comparch">Computer Architecture and Embedded Systems</a>
 
-**Secondary Tech Core:** Integrated Circuits
+**Secondary Tech Core:** <a href="http://www.ece.utexas.edu/undergraduate/curriculum/2012/cores/circuits">Integrated Circuits </a>
 
 
 
