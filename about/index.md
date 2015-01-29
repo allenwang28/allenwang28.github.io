@@ -18,4 +18,3 @@ My passions include:
 * Music
 * ...and a lot more!   
 
-I am a diehard fan of the Dallas Mavericks 
