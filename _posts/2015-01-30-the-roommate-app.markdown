@@ -6,7 +6,7 @@ categories:
 description:
 tags: [Ruby on Rails, The Roommate App]
 image:
-  feature: RoR.png
+  feature: RoR.jpg
   credit:
   creditlink:
 comments:
